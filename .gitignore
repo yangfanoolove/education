@@ -1,2 +1,5 @@
 .idea/
 *.iml
+edu-service/target/
+edu-common/target/
+mylogs/
